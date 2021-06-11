@@ -1,9 +1,9 @@
 # Project Name
- - Akan-Names 
+ - Akan-Names,
 # Project Description
  - This website projects a form that assists the user to generate Akan Names based on their birthdays.
 # Author(s) information
- - Brian Karu
+ - Brian Karu.
 # Prerequisities
  - You need to have git installed
  - You can install it with the following command in your terminal
@@ -31,6 +31,13 @@ View [Live] ( https://github.com/Karuu-01/Akan-Name)
 1. GIT
 # Contact information
 You can reach me through my E-mail address
- -( brayokarush@gmail.com)
-### Licence
-This project is under the  [MIT](license) license
+ - ( brayokarush@gmail.com)
+# Licence And Copyright Information
+ - Copyright 2021 Brian Karu.
+
+ - Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+ - The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
