@@ -1,0 +1,10 @@
+*{
+  background-image: url(/static/IMAGE/im.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Sen';
+}
+.head h1{
+  text-align: center;
+
+}
