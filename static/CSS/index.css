@@ -21,8 +21,11 @@ form{
   height: 300px;
   margin-left: 80px;
   padding: 70px;
-  margin: 75px;
+  margin: 60px;
 }
 .submit{
   font-size: 50px;
+}
+.head p{
+  font-size: large;
 }
