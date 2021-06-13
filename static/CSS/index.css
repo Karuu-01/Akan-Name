@@ -36,3 +36,7 @@ form{
   
   
 }
+.form,row{
+  margin: 80px;
+  height: 300px;
+}
