@@ -28,6 +28,7 @@ View [Live] ( https://github.com/Karuu-01/Akan-Name)
 1. HTML
 1. CSS
 1. JAVASCRIPT
+1. BOOTSRAP
 1. GIT
 # Contact information
 You can reach me through my E-mail address
