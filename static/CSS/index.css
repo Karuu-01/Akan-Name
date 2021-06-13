@@ -10,7 +10,7 @@ body{
   text-align: center;
   text-decoration: underline;
 }
-.side{
+#side{
   float: right;
   margin: 10px;
   margin-right: 200px;
