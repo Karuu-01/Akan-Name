@@ -25,6 +25,8 @@ form{
 }
 .head p{
   font-size: large;
+  font-family: 'Sen' sans-serif;
+  font-weight: 900;
 }
 .form-group,row1{
   font-size: 20px;
