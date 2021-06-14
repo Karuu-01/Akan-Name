@@ -2,7 +2,7 @@
   font-family: 'Sen';
 }
 body{
-  background-image: url(/static/IMAGE/im.jpg);
+  background-image: url(/static/CSS/im.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
